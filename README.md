@@ -1,3 +1,3 @@
 # Git Course by Fireship
 
-gay vex
+gay sex
