@@ -1,1 +1,2 @@
 bad file
+Testing reset
