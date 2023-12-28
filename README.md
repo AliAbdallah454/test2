@@ -2,6 +2,4 @@
 
 Hello World!
 Switched To test2
-Testing the other method
-
-This is from ali branch
+Ali Testing the other method
