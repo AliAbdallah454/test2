@@ -1,4 +1,4 @@
 # Git Course by Fireship
 
 Hello World!
-Switched to test2
+Switched To test2
